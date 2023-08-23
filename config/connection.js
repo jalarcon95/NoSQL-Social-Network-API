@@ -11,4 +11,4 @@ mongoose.connect(
 
 mongoose.set('debug', true);
 
-module.export = mongoose.connection;
+module.exports = mongoose.connection;
