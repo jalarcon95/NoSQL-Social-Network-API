@@ -19,7 +19,7 @@
 
   The purpose of this project was to create a functional API for a social network app using a NoSQL database such as MongoDB to handle large amounts of unstructured data. The API allows users to share their thoughts, react to friends’ thoughts, and create a friend list. Expressjs is used to for routing and Mongoose allows the models to be synced to MongoDB. JavaScript native 'dateFormat' object is used to create timestamps. This is not a deployed app, therefore a video walkthough was added to demonstrate API functionality.
 
-  API Demo Link: 
+  API Demo Link: https://drive.google.com/file/d/14rVEYq5oPQs9O_mBwIqsHxW1aFisymyw/view
 
   ## [Installation](#table-of-contents)
 
